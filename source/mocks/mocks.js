@@ -13,6 +13,7 @@ const cursos = [
             categoria: 'Á distância',
             detalhes:
                 {
+                    nome: 'Alimentos Funcionais',
                     area: "Alimentos e Bebidas",
                     carga: "20 horas",
                     telefone: "19 3837-6300",
@@ -26,7 +27,7 @@ const cursos = [
             categoria: 'Presencial',
             detalhes: 
                 {
-                    area: "Eletrônica",
+                    nome: 'Arduíno',
                     carga: "40 horas",
                     telefone: "19 3837-6300",
                     email: "senaijaguariuna@sp.senai.br",
@@ -39,6 +40,7 @@ const cursos = [
             categoria: 'Á distância' ,
             detalhes:
                 {
+                    nome: 'Metrologia',
                     area: "Metalmecânica",
                     carga: "14 horas",
                     telefone: "19 3837-6300",
@@ -52,6 +54,7 @@ const cursos = [
             categoria: 'Presencial' ,
             detalhes:
                 {
+                    nome: 'Liderança',
                     area: "Gestão de RH",
                     carga: "24 horas",
                     telefone: "19 3837-6300",
@@ -72,6 +75,7 @@ const cursos = [
             categoria: 'Presencial' ,
             detalhes:
                 {
+                    nome: 'Eletricista de Manutenção Eletroeletrônica',
                     area: "Eletricidade",
                     carga: "1600 horas",
                     telefone: "19 3837-6300",
@@ -85,6 +89,7 @@ const cursos = [
             categoria: 'Presencial',
             detalhes:
                 {
+                    nome: 'Mecânico de bombas',
                     area: "Metalmecânica",
                     carga: "800 horas",
                     telefone: "19 3837-6300",
@@ -98,6 +103,7 @@ const cursos = [
             categoria: 'Presencial',
             detalhes:
                 {
+                    nome: 'Mecânico de usinagem',
                     area: "Metalmecânica",
                     carga: "1600 horas",
                     telefone: "19 3837-6300",
@@ -118,6 +124,7 @@ const cursos = [
             categoria: 'Presencial' ,
             detalhes: 
                 {
+                    nome: 'Analise e Desenvolvimento de sistemas',
                     area: "Tecnologia da Informação",
                     carga: "1200 horas",
                     telefone: "19 3837-6300",
@@ -131,6 +138,7 @@ const cursos = [
             categoria: 'Presencial',
             detalhes:
                 {
+                    nome: 'Eletrônica',
                     area: "Eletrônica",
                     carga: "1200 horas",
                     telefone: "19 3837-6300",
