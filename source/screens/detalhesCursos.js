@@ -27,8 +27,8 @@ export default function detalheScreen({route}) {
             </View>
             <View style={styles.box}>
                 <Text style={styles.texto}>
-                <Text style={styles.bold}>Mais informações em: </Text> 
-                https://jaguariuna.sp.senai.br/</Text> 
+                <Text style={styles.bold}>Saiba mais: </Text> 
+                {dados.site}</Text> 
             </View>
         </View >);
 };
